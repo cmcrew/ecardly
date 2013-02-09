@@ -1,0 +1,2 @@
+<h1>Ecard.ly</h1>
+<p>Assignment for <a href="http://generalassemb.ly">General Assembly</a> Front End Web Development Class. Project required coding the design based on a given comp file. Built using Twitter Bootstrap for responsive.</p>
